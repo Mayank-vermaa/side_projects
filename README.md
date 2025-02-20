@@ -84,7 +84,6 @@ git clone [https://github.com/your-username/your-repository.git](https://github.
 
 Navigate to the project folder:
 
-cd project-name
 
 Follow the setup guide in the respective README.md file of each project.
 
