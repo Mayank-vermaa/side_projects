@@ -99,4 +99,4 @@ For any queries or collaboration opportunities, reach out to me at:
 
 
 
-Thanks for visiting my projects! ⭐ If you like them, don't forget to star the repositories!
+Thanks for visiting my projects! ⭐ If you like them, don't forget to star the repositories
