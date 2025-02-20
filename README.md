@@ -96,8 +96,8 @@ Feel free to fork, contribute, or suggest improvements. Let's build together! �
 
 For any queries or collaboration opportunities, reach out to me at:
 
-📧 Email: mokshsharma02468@gmail.com
+📧 Email: 
 
-💼 LinkedIn: Moksh
+
 
 Thanks for visiting my projects! ⭐ If you like them, don't forget to star the repositories!
