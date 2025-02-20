@@ -95,7 +95,7 @@ Follow the setup guide in the respective README.md file of each project.
 
 For any queries or collaboration opportunities, reach out to me at:
 
-📧 Email: 
+📧 Email: mayankkumarverma682@gmail.com
 
 
 
