@@ -76,7 +76,7 @@ Interactive and engaging UI 💚
 
 Each project has its own installation steps. Refer to the individual project folders for detailed setup instructions.
 
-General Steps:
+
 
 Clone the repository:
 
