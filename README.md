@@ -56,7 +56,7 @@ Simple and responsive UI 📱
 
 📌 Food Cuisine List Repository
 
-4️⃣ Eco-Friendly Shopping Site
+4️⃣ Eco-Friendly Shopping
 
 🌱 An e-commerce site promoting eco-friendly and sustainable products.
 
