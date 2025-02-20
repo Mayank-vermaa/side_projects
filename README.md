@@ -18,7 +18,7 @@ Features:
 
 Add, remove, and update book records 📚
 
-Manage student records and book lending 📋
+
 
 Simple command-line interface 🖥️
 
