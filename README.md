@@ -24,7 +24,7 @@ Simple command-line interface 🖥️
 
 📌 Library Book Management Repository
 
-2️⃣ Weather API System
+
 
 🌤️ A weather application that fetches real-time weather details using an API.
 
