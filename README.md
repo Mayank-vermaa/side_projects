@@ -62,7 +62,7 @@ Simple and responsive UI 📱
 
 Tech Stack: HTML
 
-Features:
+
 
 Browse and purchase sustainable products 🛍️
 
