@@ -90,7 +90,6 @@ Follow the setup guide in the respective README.md file of each project.
 
 🤝 Contributing
 
-Feel free to fork, contribute, or suggest improvements. Let's build together! 🚀
 
 📩 Contact
 
