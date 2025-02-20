@@ -16,7 +16,7 @@ Tech Stack: C
 
 Features:
 
-Add, remove, and update book records 📚
+Add, remove, and update book records 
 
 
 
