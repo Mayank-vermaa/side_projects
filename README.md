@@ -36,7 +36,7 @@ Get current weather conditions based on location 🌎
 
 Displays temperature, humidity, and wind speed 🌡️
 
-Simple CLI-based output 🖥️
+Simple CLI-based output 
 
 📌 Weather API System Repository
 
