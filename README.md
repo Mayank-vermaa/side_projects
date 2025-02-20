@@ -20,7 +20,7 @@ Add, remove, and update book records 📚
 
 
 
-Simple command-line interface 🖥️
+
 
 📌 Library Book Management Repository
 
