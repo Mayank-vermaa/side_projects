@@ -88,7 +88,7 @@ cd project-name
 
 Follow the setup guide in the respective README.md file of each project.
 
-🤝 Contributing
+
 
 
 📩 Contact 8986120267
