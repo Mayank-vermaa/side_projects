@@ -1,4 +1,4 @@
-#this projects is very uniquw
+#this projects is very unique and very helpful
 
 # TheSideProjects
 
