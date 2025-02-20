@@ -98,6 +98,6 @@ For any queries or collaboration opportunities, reach out to me at:
 
 📧 Email: mokshsharma02468@gmail.com
 
-💼 LinkedIn: Moksh Sharma
+💼 LinkedIn: Moksh
 
 Thanks for visiting my projects! ⭐ If you like them, don't forget to star the repositories!
