@@ -10,7 +10,7 @@ Welcome to my repository! This contains some of my side projects focused on diff
 
 1️⃣ Library Book Management
 
-📖 A simple library management system to handle book records, borrowing, and user management.
+📖 A simple library management system to handle book records, borrowing.
 
 Tech Stack: C
 
